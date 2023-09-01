@@ -1,0 +1,13 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   103-Star_Wars
+#
+# Changes not staged for commit:
+#	modified:   ../0x00-shell_basics/school.mgc
+#
